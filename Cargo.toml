@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bin-test",
+    "rw-memory",
+    "rw-example"
+]
